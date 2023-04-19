@@ -1,3 +1,5 @@
+## Step 1: Extract the text from the lecture notes (PDF files → CSV files)
+
 import csv
 import os
 import re
