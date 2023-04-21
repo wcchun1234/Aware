@@ -11,7 +11,7 @@ Step 3: Filter out the meaningless repeat words
 Step 4: Do word embedding to form a 300D data of the text to show the relationship between the text visually
 Step 5: Convert the 300D data to be 3D data to prepare for forming the 3D word cloud
 Step 6: Form the 3D word cloud using the 3D data of the word embedded text database using Processing
-For more details, visit https://www.wcchun.com/aware.
+For more details, visit https://wcchun.notion.site/wcchun/Aware-8c454b49819e40d6a4cad487656f3ba9.
 
 # Setup
 1. Install the latest version of Processing.
